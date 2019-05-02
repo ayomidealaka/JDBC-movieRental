@@ -702,12 +702,12 @@ public class jdbcConnect {
     
     public static void main(String[] args) {
         System.out.println("Starting");
-        String mysqlUsername = "s2992254";
-        String mysqlPassword = "dessalin";
-        String mysqlDatabaseName = "s2992254";
-        String sshUsername = "s2992254";
-        String sshPassword = "dessalin";
-        String sshRemoteHost = "knuth.gcd.ie";
+        String mysqlUsername = " ";
+        String mysqlPassword = " ";
+        String mysqlDatabaseName = " ";
+        String sshUsername = " ";
+        String sshPassword = " ";
+        String sshRemoteHost = " ";
         int shhRemotePort = 22;
         int localPort = 3310;
         String mysqlHost="localhost";
